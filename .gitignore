@@ -1,0 +1,10 @@
+*.iml
+job-store/*
+.idea/*
+logs
+**/build
+**/dist
+**/target
+.DS_Store
+*.DS_Store
+*.json
