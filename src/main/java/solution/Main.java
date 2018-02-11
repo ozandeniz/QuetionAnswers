@@ -24,5 +24,11 @@ public class Main {
 
         boolean isAnagram = AnagramQuestion.isAnagram("arches", "chaser");
         System.out.println(isAnagram);
+
+        isAnagram = AnagramQuestion.isAnagram("arches1", "chaser");
+        System.out.println(isAnagram);
+
+        isAnagram = AnagramQuestion.isAnagram("arch3s", "chaser");
+        System.out.println(isAnagram);
     }
 }
